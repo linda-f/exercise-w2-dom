@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+  }
+  
+h1 {
+    color: black;
+  }
+  
+p {
+    color: black;
+  }
+  
+.box {
+    height: 300px;
+    background-color: lightgreen;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+
+.boxdark {
+  height: 300px;
+  background-color: darkgreen;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.crazy {
+  height: 300px;
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+  
