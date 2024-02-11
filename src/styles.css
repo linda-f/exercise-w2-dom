@@ -2,15 +2,15 @@ body {
     font-family: sans-serif;
   }
   
-  h1 {
+h1 {
     color: black;
   }
   
-  p {
+p {
     color: black;
   }
   
-  .box {
+.box {
     height: 300px;
     background-color: lightgreen;
     display: flex;
