@@ -4,6 +4,7 @@ const box = document.getElementById ("boxjs")
 const boxdark = document.getElementById ("boxjs")
 const light = document.getElementById ("light")
 const dark = document.getElementById ("dark")
+const crazy = document.getElementById ("crazy")
 
 light.onclick = () => {
     box.classList.add("box")
